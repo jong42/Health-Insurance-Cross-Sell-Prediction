@@ -5,6 +5,6 @@ In this notebook, I apply a number of Machine Learning methods to predict wether
 
 Usage:
 
-1. Create a new Python environment
+1. Create a new Python environment (Python 3.10 or newer)
 2. In that environment, run "pip install -r requirements.txt"
 3. In that environment, open the notebook
